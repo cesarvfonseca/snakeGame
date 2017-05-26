@@ -1,0 +1,9 @@
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\bin\Debug\sankeGame.exe.config
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\bin\Debug\sankeGame.exe
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\bin\Debug\sankeGame.pdb
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\obj\Debug\sankeGame.csprojResolveAssemblyReference.cache
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\obj\Debug\sankeGame.Form1.resources
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\obj\Debug\sankeGame.Properties.Resources.resources
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\obj\Debug\sankeGame.csproj.GenerateResource.Cache
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\obj\Debug\sankeGame.exe
+c:\users\cvalenciano\documents\visual studio 2012\Projects\snakeGame\sankeGame\obj\Debug\sankeGame.pdb
